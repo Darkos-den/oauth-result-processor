@@ -9,7 +9,7 @@ class OAuthResultProcessor {
     }
 
     private var listeners: List<Listener> by weakList()
-    internal var activity: AppCompatActivity? by weak()
+    var activity: AppCompatActivity? by weak()
 
     fun attach(activity: AppCompatActivity) {
         this.activity = activity
