@@ -6,7 +6,7 @@ plugins {
 }
 
 def GROUP_ID="com.darkosinc.oauth"
-def ARTIFACT_ID="facebook"
+def ARTIFACT_ID="result-processor"
 
 def BINTRAY_REPOSITORY="oauth"
 def BINTRAY_ORGINIZATION="darkosinc"
