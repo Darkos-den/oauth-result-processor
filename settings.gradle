@@ -1,0 +1,5 @@
+rootProject.name = 'result-processor'
+
+
+enableFeaturePreview('GRADLE_METADATA')
+include(":lib")
